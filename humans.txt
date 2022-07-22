@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    EL HAFNY YASSER -- Student -- 
+
+# THANKS
+
+    Pierrre Giraud for the CV template
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+
+# FIRST UPLOAD : 28/03/2022
+# LAST UPDATE : 28/03/2022

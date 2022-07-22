@@ -1,0 +1,12 @@
+{
+  "short_name": "CV EL HAFNY YASSER",
+  "name": "CV EL HAFNY YASSER",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "https://dti1.simplon-chambery.com/apprenants/Yasser/CV/",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
